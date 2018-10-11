@@ -2,7 +2,7 @@
 #e.g. dates=['2018-01-06','2018-03-30']
 #Swedish_holi_work_days(dates)
 
-#For the acedemic pupose this code is modified Swedish-2018 version of the python-holidays project, the link is below
+#For the acedemic purpose this code is modified Swedish-2018 version of the python-holidays project, the link is below
 #https://github.com/dr-prodigy/python-holidays/blob/master/holidays.py
 #If you need to use for 2019 add the 2019's red days in custom_holidays.append])
 
